@@ -3,7 +3,7 @@ This is easEquations (Java Edition), a mash of my existing easEquations for Wind
 
 This version of easEquations is incomplete (especially compared to the Kotlin Edition). During my time coding this project, I got sidetracked within the project. I got tired of typing out *System.out.println()* constantly, and made a function called *println()* to handle it. I then recognized my frustration with how Java handles string interpolation (C# does $"{var} hi!" and Kotlin does "$var hi!") and decided to attempt to expand the *println()* function to include this functionality. After several hours of frustration and ~70 lines of code, I realized too late that how I was doing what I wanted to do was very much the wrong way of going about it. While, yes, I did learn much about Java in the process, I failed to complete my sidetrack goal. But hey, I feel comfortable in Java now. What fun. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_Bn8IAT2CnI)
 
 # Development Environment
 - IntelliJ IDE
