@@ -17,3 +17,5 @@ This version of easEquations is incomplete (especially compared to the Kotlin Ed
 - Um, maybe an Android app? (perhaps combine Java and Kotlin code lol)
 - More fleshed out feature set
 - Explore JavaFX
+
+WEEEEEEE
